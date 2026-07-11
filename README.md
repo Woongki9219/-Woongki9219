@@ -52,6 +52,18 @@
 - [(Java 10) 제네릭](https://thenullpage.com/ko/post/6454)
 - [(Java 11) 예외 처리](https://thenullpage.com/ko/post/6455)
 
+### 실전 Q&A (파이썬·자바스크립트)
+- [파이썬 함수 기본값에 빈 리스트 줬는데 값이 계속 쌓여요](https://thenullpage.com/ko/post/6668)
+- [반복문에서 만든 람다들이 전부 똑같은 값을 반환해요](https://thenullpage.com/ko/post/6669)
+- [함수를 호출했는데 안에 있는 print가 실행이 안 돼요](https://thenullpage.com/ko/post/6670)
+- [데코레이터를 씌웠더니 함수 이름이 wrapper로 바뀌었어요](https://thenullpage.com/ko/post/6671)
+- [2차원 리스트를 곱셈으로 만들었더니 한 칸만 바꿔도 전부 바뀌어요](https://thenullpage.com/ko/post/6672)
+- [자바스크립트 함수 하나는 호출되는데 하나는 not a function이래요](https://thenullpage.com/ko/post/6673)
+- [setTimeout(0)보다 Promise.then이 먼저 실행되는데 정상인가요?](https://thenullpage.com/ko/post/6674)
+- [async 함수인데 await 뒤 코드가 제일 마지막에 실행돼요](https://thenullpage.com/ko/post/6675)
+- [객체 메서드를 변수에 담아 호출하니 this가 undefined예요](https://thenullpage.com/ko/post/6676)
+- [자바스크립트에서 빈 배열 느슨한 비교가 true가 나오는 이유](https://thenullpage.com/ko/post/6677)
+
 ### 그 밖의 질문/팁 글
 - [(웹 퍼블리싱 72) 접근성 - 접근성 흔한 실수](https://thenullpage.com/ko/post/6091)
 - [(웹 퍼블리싱 71) 접근성 - 접근성 자동 검사](https://thenullpage.com/ko/post/6090)
